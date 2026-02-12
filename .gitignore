@@ -1,0 +1,15 @@
+.env
+
+archive/*
+!archive/.gitkeep
+
+code_merge.py
+project_context.txt
+
+output/*
+!output/.gitkeep
+
+log/*
+!log/.gitkeep
+
+sync_run_output.py
